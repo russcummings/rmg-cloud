@@ -1,1 +1,3 @@
 *.sqlite
+*.code-workspace
+rmg-cloud-notes.txt
